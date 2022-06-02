@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lyft.lyft">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bus_station"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@drawable/bus_station"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LYFT">
+        <activity
+            android:name=".User.UserVehicleViewOnMapActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBHGDFEcN8li4GUSMR7o21w5n7akutUQt4" />
+
+        <activity
+            android:name=".User.UserViewBookingDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".User.UserViewMyBookingsListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".User.UserViewAvailableBusBookingDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".User.UserViewAvailableBusBookingListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Driver.DriverViewAvailableBookingListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Driver.DriverAddToAvailableBookingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".User.ViewBusesDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Driver.DriverPswChangeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Driver.DriverProfileViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".User.UserViewMapActivity"
+            android:exported="false" />
+        <activity
+            android:name=".User.UserPswChangeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".User.UserProfileViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DriverRegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Driver.DriverDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".User.UserDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

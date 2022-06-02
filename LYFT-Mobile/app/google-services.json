@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442981787486",
+    "project_id": "lyft-84866",
+    "storage_bucket": "lyft-84866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442981787486:android:85449e9ac24bc336f251cf",
+        "android_client_info": {
+          "package_name": "com.lyft.lyft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442981787486-p2dso0varac9nieapocn9csgipj6oqek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc5LVk_dXYI11DRps2SNSFWapAk6NCQCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442981787486-p2dso0varac9nieapocn9csgipj6oqek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

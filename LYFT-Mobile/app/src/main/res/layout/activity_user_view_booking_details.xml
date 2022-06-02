@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".User.UserViewBookingDetailsActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Booking Details"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/gray2"
+        android:fontFamily="sans-serif"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text=""/>
+
+    <TextView
+        android:id="@+id/start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/gray2"
+        android:fontFamily="sans-serif"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text=""/>
+
+    <TextView
+        android:id="@+id/end"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/gray2"
+        android:fontFamily="sans-serif"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text=""/>
+
+    <TextView
+        android:id="@+id/pickup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/gray2"
+        android:fontFamily="sans-serif"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text=""/>
+
+    <TextView
+        android:id="@+id/busNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/gray2"
+        android:fontFamily="sans-serif"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text=""/>
+
+    <TextView
+        android:id="@+id/booked"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/gray2"
+        android:fontFamily="sans-serif"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text=""/>
+
+</LinearLayout>

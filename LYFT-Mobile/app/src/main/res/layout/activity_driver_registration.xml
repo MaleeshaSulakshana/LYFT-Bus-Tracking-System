@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".DriverRegistrationActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:layout_marginTop="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="REGISTRATION"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textSize="30dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Vehicle"
+            android:textColor="@color/gray2"
+            android:textSize="15dp"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/itemImage"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/img3"
+            android:layout_marginTop="10dp"
+            app:civ_border_width="0dp"/>
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Name"
+            android:textColorHint="@color/gray2"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Email"
+            android:textColorHint="@color/gray2"
+            android:inputType="textEmailAddress"/>
+
+        <EditText
+            android:id="@+id/number"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Mobile Number"
+            android:textColorHint="@color/gray2"
+            android:inputType="number"/>
+
+        <EditText
+            android:id="@+id/busName"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Bus Name"
+            android:textColorHint="@color/gray2"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/busRegNumber"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Vehicle Number"
+            android:textColorHint="@color/gray2"
+            android:inputType="textCapCharacters"/>
+
+        <EditText
+            android:id="@+id/rootNo"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Root Number"
+            android:textColorHint="@color/gray2"
+            android:inputType="number"/>
+
+
+        <EditText
+            android:id="@+id/rootStart"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Root Start Point Name"
+            android:textColorHint="@color/gray2"
+            android:inputType="textPersonName"/>
+
+
+        <EditText
+            android:id="@+id/rootEnd"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Root End Point Location"
+            android:textColorHint="@color/gray2"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/ownerName"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Owner Name"
+            android:textColorHint="@color/gray2"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/ownerNumber"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Owner Mobile Number"
+            android:textColorHint="@color/gray2"
+            android:inputType="number"/>
+
+        <EditText
+            android:id="@+id/driverName"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Driver Name"
+            android:textColorHint="@color/gray2"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/conductorName"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Conductor Name"
+            android:textColorHint="@color/gray2"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/psw"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Password"
+            android:textColorHint="@color/gray2"
+            android:inputType="textPassword"/>
+
+        <EditText
+            android:id="@+id/cpsw"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@drawable/background_white_with_border_black"
+            android:shadowColor="@color/gray2"
+            android:textColor="@color/gray2"
+            android:hint="Confirm Password"
+            android:textColorHint="@color/gray2"
+            android:inputType="textPassword"/>
+
+        <Button
+            android:id="@+id/btnReg"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/black_button"
+            android:text="Register"
+            android:textColor="@color/white"
+            app:backgroundTint="@null" />
+
+    </LinearLayout>
+
+</ScrollView>

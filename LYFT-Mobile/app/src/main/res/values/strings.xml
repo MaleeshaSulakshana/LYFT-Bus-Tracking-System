@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LYFT</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="number">Mobile Number</string>
+    <string name="psw">Password</string>
+    <string name="cpsw">Confirm Password</string>
+    <string name="npsw">New Password</string>
+
+    <string name="bus_name">Bus Name</string>
+    <string name="bus_reg_no">Bus Registered No</string>
+    <string name="bus_root_no">Root No</string>
+    <string name="bus_owner_name">Bus Owner Name</string>
+    <string name="bus_owner_tp">Bus Owner Number</string>
+    <string name="bus_driver_name">Bus Driver Name</string>
+    <string name="bus_conductor_name">Bus Conductor Name</string>
+
+
+    <string name="welcome_text">
+        Travelling made easier and convenient based on your daily routing to
+        your workplace providing a new experience of travelling with your loved ones.
+    </string>
+
+    <string name="map_key" translatable="false">AIzaSyBHGDFEcN8li4GUSMR7o21w5n7akutUQt4</string>
+
+    <!--    AIzaSyAZgUWn_FYNF6EcaovneWCumfSICicUMXs-->
+
+    <!--    https://maps.googleapis.com/maps/api/js?key=AIzaSyAYPUScV0WAtwISU1KP_4vJXoiR_R2bDHo&callback=myMap-->
+
+</resources>

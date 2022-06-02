@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_add_to_booking_list.xml" value="0.33796296296296297" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_driver_add_to_available_booking.xml" value="0.33796296296296297" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_driver_dashboard.xml" value="0.3382761816496756" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_driver_profile_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_driver_psw_change.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_driver_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_driver_view_available_booking_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_user_dashboard.xml" value="0.33796296296296297" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_user_profile_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_user_psw_change.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_user_vehicle_view_on_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_user_view_available_bus_booking_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_user_view_available_bus_booking_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_user_view_booking_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_user_view_my_bookings.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/activity_user_view_my_bookings_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/dialog_box_authentications.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/dialog_box_exit.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/dialog_box_user_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/dialog_box_user_type.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/dialog_box_vehicle_menu.xml" value="0.264" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/dialog_box_view_vehicle_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/External-Projects/#Final-Projects/Anuja-Final-Project-Bus-Tracking-System/Project/LYFT-Bus-Tracking-System/LYFT-Mobile/app/src/main/res/layout/row_available_booking_item.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
